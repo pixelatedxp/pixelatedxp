@@ -11,7 +11,6 @@
 
 - How to reach me **https://discord.com/users/658586788721590273**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

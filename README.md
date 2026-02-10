@@ -9,7 +9,7 @@
 
 - Fun fact **I think I'm funny.**
 
-- How to reach me **https://discord.com/users/658586788721590273**
+- How to reach me **[Discord](https://discord.com/users/658586788721590273)**
 
 <p align="left">
 </p>

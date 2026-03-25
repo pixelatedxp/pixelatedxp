@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelatedxp&label=Profile%20views&color=0e75b6&style=flat" alt="pixelatedxp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/pixelatedxpert" target="blank"><img src="https://img.shields.io/twitter/follow/pixelatedxpert?logo=twitter&style=for-the-badge" alt="pixelatedxpert" /></a> </p>
-
 - I’m currently working on [Pixel's CS2 Internal](https://github.com/pixelatedxp/Pixel-CS2-Internal)
 
 - I’m currently learning **Game security, Reverse engineering, and advanced C++ tricks.**

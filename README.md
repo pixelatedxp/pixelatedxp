@@ -3,17 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pixelatedxp&label=Profile%20views&color=0e75b6&style=flat" alt="pixelatedxp" /> </p>
 
+<p align="left"> <a href="https://twitter.com/pixelatedxpert" target="blank"><img src="https://img.shields.io/twitter/follow/pixelatedxpert?logo=twitter&style=for-the-badge" alt="pixelatedxpert" /></a> </p>
+
 - I’m currently working on [Pixel's CS2 Internal](https://github.com/pixelatedxp/Pixel-CS2-Internal)
 
-- I’m currently learning **Game security,Reverse engineering,and advanced C++ tricks.**
+- I’m currently learning **Game security, Reverse engineering, and advanced C++ tricks.**
 
 - All of my projects are available at [pixelis.dev](pixelis.dev)
 
-- 💬 Ask me about **C++, Game Cheats, and UI design.**
+- Ask me about **C++, Game Cheats, and UI design.**
 
-- How to reach me **pixelis.dev**
+- How to reach me **pixel@pixelis.dev**
 
-- ⚡ Fun fact **I think I'm funny**
+- Know about my experiences [pixelis.dev](pixelis.dev)
+
+- Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

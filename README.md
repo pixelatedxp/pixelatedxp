@@ -1,11 +1,11 @@
 <h1 align="center">About me: Pixel!</h1>
-<h3 align="center">I'm a teenager who’s really into Python and constantly building different projects.</h3>
+<h3 align="center">I'm a teenager who’s really into Python, C++, C# and constantly building different projects.</h3>
 
-- I’m currently working on **Building automation tools in Python**
+- I’m currently working on **Building Game Cheats And Reversing Multiple Games**
 
-- I’m currently learning **C++,Java,C#,Html**
+- I’m currently learning some **Rust and SQL**
 
-- I’m looking to collaborate on **Python/automation/game-related projects.**
+- I’m looking to collaborate on **Python/C++/C#/automation/game-related projects.**
 
 - Fun fact **I think I'm funny.**
 

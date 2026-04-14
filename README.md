@@ -43,4 +43,4 @@
 - **Ask me about**: C++, Game Cheats, and UI.
 - **Email**: [pixel@pixelis.dev](mailto:pixel@pixelis.dev)
 - **YouTube**: [pixelatedxpert](https://www.youtube.com/@PixelatedXpert)
-- **Fun fact**: I think I'm funny (People disagree).
+- **Fun fact**: Occasionally funny. Occasionally.

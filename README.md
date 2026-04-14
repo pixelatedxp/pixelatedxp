@@ -6,8 +6,9 @@
 
 ### My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelatedxp&show_icons=true&theme=dark" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelatedxp&layout=compact&theme=dark" alt="Languages" height="150" />
+  <img src="https://img.shields.io/github/commits-perspective/pixelatedxp/pixelatedxp?label=Total%20Commits&style=flat-square&color=0e75b6" alt="Commits" />
+  <img src="https://img.shields.io/github/stars/pixelatedxp/modern-imgui-base?label=Repo%20Stars&style=flat-square&color=0e75b6" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/pixelatedxp?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
 
 <p align="center">

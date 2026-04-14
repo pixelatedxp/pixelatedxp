@@ -7,7 +7,7 @@
 ### My Stats
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/pixelatedxp/pixelatedxp?label=Last%20Commit&style=flat-square&color=0e75b6" alt="Last Commit" />
-  <img src="https://img.shields.io/github/stars/pixelatedxp/modern-imgui-base?label=Repo%20Stars&style=flat-square&color=0e75b6" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/pixelatedxp/Pixel-CS2-Internal?label=Cheat%20Repo%20Stars&style=flat-square&color=0e75b6" alt="Stars" />
   <img src="https://img.shields.io/github/followers/pixelatedxp?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
 </p>
 

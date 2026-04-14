@@ -6,12 +6,12 @@
 
 ### My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixelatedxp&show_icons=true&theme=transparent" alt="Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelatedxp&layout=compact&theme=transparent" alt="Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pixelatedxp&show_icons=true&theme=dark" alt="Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelatedxp&layout=compact&theme=dark" alt="Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pixelatedxp&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=pixelatedxp&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
 </p>
 
 ---
@@ -23,11 +23,20 @@
 
 ---
 
-### Tech Stack
+### Tech Stack & Tools 💻
+
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/C%23-green?style=flat&logo=c-sharp" />
-  <img src="https://img.shields.io/badge/Python-blue?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+**Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 </p>
 
 ---
@@ -36,4 +45,4 @@
 - **Ask me about**: C++, Game Cheats, and UI.
 - **Email**: [pixel@pixelis.dev](mailto:pixel@pixelis.dev)
 - **YouTube**: [pixelatedxpert](https://www.youtube.com/c/pixelatedxpert)
-- **Fun fact**: I think I'm funny.
+- **Fun fact**: I think I'm funny (People disagree).

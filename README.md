@@ -20,7 +20,7 @@
 > They also banned my other two accounts (I was able to get this one back).  
 > It's crazy how they allow widespread malware and blatant pasters on their platform, yet target a small individual developer like me.  
 >  
-> **As a pushback, I'll soon be creating a ton of repos with a lot of my work – tools, cheats sources, and more. Coming soon!**
+> **As a pushback, I'll soon be creating a ton of repos with a lot of my work, tools, cheats sources, and more. Coming soon.**
 
 ---
 

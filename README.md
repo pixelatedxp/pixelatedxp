@@ -16,7 +16,7 @@
 
 ### 📌 Announcement
 
-Some of my learning resources and repositories were recently removed. I'm rebuilding and will be sharing new content soon – tools, sources, and more. Stay tuned.
+Some of my learning resources and repositories were recently removed. I'm rebuilding and will be sharing new content soon, tools, sources, and more. Stay tuned.
 
 ---
 

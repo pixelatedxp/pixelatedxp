@@ -15,7 +15,7 @@
 ---
 
 ### Projects
-- **Working on**: [Pixel's CS2 Internal](https://github.com/pixelatedxp/Pixel-CS2-Internal) - A cheat for CS2.
+- **Working on**: [Pixel's CS2 Internal](https://pixelis.dev) - A cheat for CS2.
 - **Learning**: Game security, Reverse engineering, and C++.
 - **Website**: My tools are at [pixelis.dev](https://pixelis.dev)
 

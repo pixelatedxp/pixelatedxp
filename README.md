@@ -17,5 +17,4 @@ Some repos were recently taken down -- I'm rebuilding. New content soon.
 ---
 
 **Discord**: [pixelatedxpert](https://discord.com/users/1009828837141528696)  
-**YouTube**: [@PixelatedXpert](https://www.youtube.com/@PixelatedXpert)  
 **Email**: unavailable right now

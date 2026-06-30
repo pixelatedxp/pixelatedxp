@@ -1,51 +1,21 @@
-# Hi, I'm Pixel
+### Hi, I'm Pixel
 
-### I build C++ tools, python scripts, and game cheats.
+I build C++ tools, Python scripts, and game cheats.
 
----
-
-<p align="center">
-  <img src="pixel.png" alt="Pixel Banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pixelatedxp&label=Profile%20views&color=0e75b6&style=flat-square" alt="Views" />
-</p>
+Some repos were recently taken down -- I'm rebuilding. New content soon.
 
 ---
 
-### Announcement
+**Projects**
+- [Pixel's CS2 Internal](https://pixelis.dev) -- CS2 cheat
+- [pixelis.dev](https://pixelis.dev) -- tools and releases
 
-Some of my learning resources and repositories were recently removed. I'm rebuilding and will be sharing new content soon, tools, sources, and more. Stay tuned.
+**Languages** `C++` `C#` `Python`
 
----
-
-### Projects
-- **Working on**: [Pixel's CS2 Internal](https://pixelis.dev) - A cheat for CS2.
-- **Learning**: Game security, Reverse engineering, and C++.
-- **Website**: My tools are at [pixelis.dev](https://pixelis.dev)
+**Tools** `Git` `Visual Studio` `CMake`
 
 ---
 
-### Tech Stack & Tools
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
-</p>
-
----
-
-### Contact
-- **Discord**: [pixelatedxpert](https://discord.com/users/1009828837141528696)
-- **Email**: Unavailable right now
-- **YouTube**: [pixelatedxpert](https://www.youtube.com/@PixelatedXpert)
+**Discord**: [pixelatedxpert](https://discord.com/users/1009828837141528696)  
+**YouTube**: [@PixelatedXpert](https://www.youtube.com/@PixelatedXpert)  
+**Email**: unavailable right now

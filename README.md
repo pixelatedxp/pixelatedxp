@@ -1,4 +1,4 @@
-# Hi, I'm Pixel 👋
+# Hi, I'm Pixel
 
 ### I build C++ tools, python scripts, and game cheats.
 
@@ -14,7 +14,7 @@
 
 ---
 
-### 📌 Announcement
+### Announcement
 
 Some of my learning resources and repositories were recently removed. I'm rebuilding and will be sharing new content soon, tools, sources, and more. Stay tuned.
 
@@ -27,7 +27,7 @@ Some of my learning resources and repositories were recently removed. I'm rebuil
 
 ---
 
-### Tech Stack & Tools 💻
+### Tech Stack & Tools
 
 **Languages**
 <p align="left">
@@ -46,7 +46,6 @@ Some of my learning resources and repositories were recently removed. I'm rebuil
 ---
 
 ### Contact
-- **Ask me about**: C++, Game Cheats, and UI.
-- **Email**: [pixel@pixelis.dev](mailto:pixel@pixelis.dev)
+- **Discord**: [pixelatedxpert](https://discord.com/users/1009828837141528696)
+- **Email**: Unavailable right now
 - **YouTube**: [pixelatedxpert](https://www.youtube.com/@PixelatedXpert)
-- **Fun fact**: Occasionally funny. Occasionally.

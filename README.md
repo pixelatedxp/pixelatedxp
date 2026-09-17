@@ -7,7 +7,7 @@ Some repos were recently taken down -- I'm rebuilding. New content soon.
 ---
 
 **Projects**
-- [Pixel's CS2 Internal](https://pixelis.dev) -- CS2 cheat
+- [Pixel's CS2 Internal](https://pixelis.dev) -- (Taken Down)
 - [pixelis.dev](https://pixelis.dev) -- tools and releases
 
 **Languages** `C++` `C#` `Python`

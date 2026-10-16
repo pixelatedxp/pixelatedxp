@@ -1,6 +1,6 @@
 # hey, i'm Pixel
 
-I make C++ tools, Python scripts and browser extensions. Fair warning: the projects below are small and a bit goofy. Bigger stuff is coming, I just have to finish the ones I started first (no promises).
+I make C++ tools, Python scripts and browser extensions. Heads up: most of my bigger repos are private, so what you see here is the small, goofy stuff. Bigger things are coming, I just have to finish the ones I started first (no promises).
 
 ## Stuff I've made
 

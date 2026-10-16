@@ -1,20 +1,20 @@
-### Hi, I'm Pixel
+# hey, i'm Pixel
 
-I build C++ tools, Python scripts, and game cheats.
+I make C++ tools, Python scripts and browser extensions. Fair warning: the projects below are small and a bit goofy. Bigger stuff is coming, I just have to finish the ones I started first (no promises).
 
-Some repos were recently taken down -- I'm rebuilding. New content soon.
+## Stuff I've made
 
----
+- **[chess-com-game-review](https://github.com/pixelatedxp/chess-com-game-review)**: a Chrome extension that reviews your Chess.com games. It labels every move, scores accuracy, guesses your rating, and has a coach explain what you did. Yes, it will tell you that move was a blunder.
+- **[extra-chess-com](https://github.com/pixelatedxp/extra-chess-com)**: hides your opponent's rating and avatar in live games so you can't tilt before move one.
+- **[immence](https://github.com/pixelatedxp/immence)**: a skribbl.io extension with auto-guessing, chat filters and saved settings. My drawing skills did not improve, the guessing did.
+- **[my-website](https://github.com/pixelatedxp/my-website)**: the source for [pixelis.dev](https://pixelis.dev), if you like reading HTML.
+- **[discord-member-scraper](https://github.com/pixelatedxp/discord-member-scraper)**: Scrapes user IDs from a Discord server via message history, threads, and welcome logs
 
-**Projects**
-- [Pixel's CS2 Internal](https://pixelis.dev) -- (Taken Down)
-- [pixelis.dev](https://pixelis.dev) -- Personal Site :D
+## What I use
 
-**Languages** `C++` `C#` `Python`
+C++ · C# · Python · JavaScript
 
-**Tools** `Git` `Visual Studio` `CMake`
+## Say hi
 
----
-
-**Discord**: [pixelatedxpert](https://discord.com/users/1009828837141528696)  
-**Email**: unavailable right now
+- Email: kx.zaper@gmail.com
+- Discord: [pixelatedxpert](https://discord.com/users/1009828837141528696)

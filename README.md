@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="cat.png" alt="a sleepy cat" width="220">
+</p>
+
 # hey, i'm Pixel
 
 I make C++ tools, Python scripts and browser extensions. Heads up: most of my bigger repos are private, so what you see here is the small, goofy stuff. Bigger things are coming, I just have to finish the ones I started first (no promises).
